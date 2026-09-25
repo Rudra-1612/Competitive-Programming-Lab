@@ -4,13 +4,13 @@ Organized collection of Competitive Programming Lab programs, structured topic-w
 
 ## Student Details
 
-| Field       | Details                            |
+| Field       | Details                             |
 |-------------|-------------------------------------|
-| Name        | Krishnendu Das                |
-| Roll No     | UG/SOET/30/24/448                  |
-| Reg No      | AU/2024/0001973                    |
+| Name        | Rudra Bharati                       |
+| Roll No     | UG/SOET/30/24/462                   |
+| Reg No      | AU/2024/0002034                     |
 | Section     | D                                   |
-| Subject     | Competitive Programming Lab Programs |
+| Subject     | Competitive Programming Lab Programs|
 
 ## Syllabus
 
